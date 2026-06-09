@@ -1,8 +1,7 @@
-- 👋 Hi, I’m M0sT4fa (Mostafa Beder), a medical student based in Egypt.
-- 👀 I’m interested in computer science, especially compiler design. I'm also interested in mathematics, science in general, linguistics, and languages (I speak English and Spanish fluently, as well as Arabic, my native language.)
-- 🌱 I'm currently focusing on learning more practical things, like popular frameworks in c++ and Node JS. In the past I've focused on more theoretical things, which I figured out is not the best thing to do 😔.
-- 💞️ I’m looking to collaborate on any C/C++ project on whose theme I have enough knowledge and experience, given that I have time (which I don't have at this point of my life 😔).
-- 📫 You can contact me at [this gmail address](mostafa2018a3s@gmail.com) or [this one](dr.mostafabideer@gmail.com), although don't expect a quick reply (I barely open them and don't know why I have two in the first place.) I have other social media accounts that are also deserted. You can find links to them on the overview page.
+- 👋 Hi, I’m Mostafa Beder, a medical student based in Egypt.
+- 👀 I'm a low-level enthusiast. I also love languages (fluent in: Arabic, English, and Spanish). I'm also beginning to get addicted to Haskell (you should try it too, but be aware: it is too beautiful).
+- I mostly do kernel development (Linux kernel modules, mainly) and emulated devices (using libvfio) these days. I also do the sysadmin and DevOps stuff at nerdio.app, of which I'm a cofounder (sometimes, I do some backend things too).
+- 📫 You can contact me at [this gmail address](m0st4fa@nerdio.app) or [this one](mostafa2018a3s@gmail.com), although don't expect a quick reply (I barely open them and don't know why I have two in the first place.) I have other social media accounts that are also deserted. You can find links to them on the overview page.
 
 <!---
 M0ST4FA/M0ST4FA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
