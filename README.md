@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mostafa Beder, a medical student based in Egypt.
-- 👀 Low-level enthusiast.
-- Love languages (fluent in: Arabic, English, and Spanish).
+- Low-level enthusiast.
+- Love languages: fluent in: Arabic, English, and Spanish.
 - Love programming languages. Currently addicted to Haskell (you should try it too, but be aware: it is too beautiful).
 - I mostly do kernel development (Linux kernel modules, mainly) and emulated devices (using libvfio) these days. I also do the sysadmin and DevOps stuff at nerdio.app, of which I'm a cofounder (sometimes, I do some backend things too).
 - Embarked on a journey to understanding computer graphics, game development and heterogeneous computing.
